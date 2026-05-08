@@ -4,9 +4,9 @@
 The **Sales & Revenue Analysis Dashboard** is an interactive data visualization project developed using Microsoft Excel. This dashboard helps analyze sales performance, revenue trends, and top-performing products using Excel charts, KPIs, filters, and slicers.
 
 The project uses datasets imported from:
-- `sales_data.xlsx`
-- `dashboard.xlsx`
-- `.csv` sales dataset
+- `sales_data_.xlsx`
+- `Sales_Revenue_Dashboard.xlsx`
+- `sales_data.csv` sales dataset
 
 The main objective of this project is to generate meaningful business insights through data analysis and visualization.
 
