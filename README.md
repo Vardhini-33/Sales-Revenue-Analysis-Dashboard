@@ -54,9 +54,9 @@ The dashboard displays important Key Performance Indicators (KPIs) such as:
 
 | File Name | Description |
 |------------|-------------|
-| `sales_data.xlsx` | Raw sales dataset |
-| `dashboard.xlsx` | Interactive sales dashboard |
-| `.csv` file | Additional sales data |
+| `sales_data_.xlsx` | Raw sales dataset |
+| `Sales_Revenue_Dashboard.xlsx` | Interactive sales dashboard |
+| `sales_data.csv` file | Additional sales data |
 
 ---
 
